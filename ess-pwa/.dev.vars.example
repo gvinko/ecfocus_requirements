@@ -1,0 +1,14 @@
+# Copy this file to `.dev.vars` (gitignored) for local `wrangler pages dev` testing.
+# Never commit real values.
+
+# --- Required for current test mode (email-only, no Simpro sync) ---
+RESEND_API_KEY=re_replace_with_real_key
+COMPLIANCE_NOTIFICATION_EMAIL=compliance@yourdomain.com
+FROM_EMAIL=system@yourdomain.com
+
+# --- Simpro relay (disabled for testing) ---
+# Uncomment and restore the Simpro calls in functions/api/sync-job.ts
+# (see git history) when ready to go live against Simpro.
+# SIMPRO_BASE_URL=https://yourcompany.simprosuite.com
+# SIMPRO_API_KEY=replace-with-personal-access-token-or-oauth-bearer-token
+# SIMPRO_COMPANY_ID=0
