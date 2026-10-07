@@ -198,7 +198,7 @@ export default function GeotaggedCameraCapture({ jobId, simproJobId, category, l
       onCaptured(photoId);
 
       if (geo.error) {
-        setError(`Photo saved, but location could not be captured: ${geo.error}`);
+        setError(`Photo saved as a draft, but GPS is missing: ${geo.error}. Retake it before final submission.`);
       }
     } catch (err) {
       setStatus('error');
