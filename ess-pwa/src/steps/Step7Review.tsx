@@ -70,20 +70,15 @@ function missingRequirements(job: JobRecord, photos: PhotoRecord[]): string[] {
     }
   }
 
-  const missingGeo = photos.filter(
-    (photo) =>
-      MANDATORY_PHOTO_CATEGORIES.includes(photo.category) &&
-      (photo.latitude === null || photo.longitude === null)
-  );
-  for (const photo of missingGeo) {
-    issues.push(`GPS location missing: ${PHOTO_CATEGORY_LABELS[photo.category]}`);
-  }
-
-  const invalidTimestamps = photos.filter(
-    (photo) => MANDATORY_PHOTO_CATEGORIES.includes(photo.category) && !photo.timestamp
-  );
-  for (const photo of invalidTimestamps) {
-    issues.push(`Capture timestamp missing: ${PHOTO_CATEGORY_LABELS[photo.category]}`);
+  for (const category of MANDATORY_PHOTO_CATEGORIES) {
+    const inCategory = photos.filter((p) => p.category === category);
+    if (inCategory.length === 0) continue; // already reported as missing above
+    if (!inCategory.some((p) => p.latitude !== null && p.longitude !== null)) {
+      issues.push(`GPS location missing: ${PHOTO_CATEGORY_LABELS[category]}`);
+    }
+    if (!inCategory.some((p) => !!p.timestamp)) {
+      issues.push(`Capture timestamp missing: ${PHOTO_CATEGORY_LABELS[category]}`);
+    }
   }
 
   return issues;
