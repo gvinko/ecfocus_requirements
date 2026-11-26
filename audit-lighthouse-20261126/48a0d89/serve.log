@@ -1,0 +1,165 @@
+ INFO  Accepting connections at http://localhost:4173
+ HTTP  11/26/2026 1:10:47 AM ::1 GET /
+ HTTP  11/26/2026 1:10:47 AM ::1 Returned 200 in 8 ms
+ HTTP  11/26/2026 1:10:47 AM ::1 GET /
+ HTTP  11/26/2026 1:10:47 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:10:57 AM ::1 GET /
+ HTTP  11/26/2026 1:10:57 AM ::1 Returned 200 in 2 ms
+ HTTP  11/26/2026 1:10:57 AM ::1 GET /assets/index-Crn3DIpm.css
+ HTTP  11/26/2026 1:10:57 AM ::1 GET /assets/index-BJr0B1iQ.js
+ HTTP  11/26/2026 1:10:57 AM ::1 GET /manifest.webmanifest
+ HTTP  11/26/2026 1:10:57 AM ::1 Returned 200 in 4 ms
+ HTTP  11/26/2026 1:10:57 AM ::1 Returned 200 in 3 ms
+ HTTP  11/26/2026 1:10:57 AM ::1 Returned 200 in 5 ms
+ HTTP  11/26/2026 1:10:57 AM ::1 GET /assets/workbox-window.prod.es5-BqEJf4Xk.js
+ HTTP  11/26/2026 1:10:57 AM ::1 Returned 200 in 2 ms
+ HTTP  11/26/2026 1:10:57 AM ::1 GET /favicon.ico
+ HTTP  11/26/2026 1:10:57 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:10:57 AM ::1 GET /icon-192.png
+ HTTP  11/26/2026 1:10:57 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:10:57 AM ::1 GET /sw.js
+ HTTP  11/26/2026 1:10:57 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:10:57 AM ::1 GET /workbox-ee9d8b34.js
+ HTTP  11/26/2026 1:10:57 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:10:57 AM ::1 GET /index.html
+ HTTP  11/26/2026 1:10:57 AM ::1 Returned 301 in 0 ms
+ HTTP  11/26/2026 1:10:57 AM ::1 GET /index
+ HTTP  11/26/2026 1:10:57 AM ::1 Returned 301 in 0 ms
+ HTTP  11/26/2026 1:10:57 AM ::1 GET /
+ HTTP  11/26/2026 1:10:57 AM ::1 Returned 200 in 0 ms
+ HTTP  11/26/2026 1:10:57 AM ::1 GET /favicon.svg
+ HTTP  11/26/2026 1:10:57 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:10:57 AM ::1 GET /assets/workbox-window.prod.es5-BqEJf4Xk.js
+ HTTP  11/26/2026 1:10:57 AM ::1 Returned 304 in 0 ms
+ HTTP  11/26/2026 1:10:57 AM ::1 GET /assets/index-Crn3DIpm.css
+ HTTP  11/26/2026 1:10:57 AM ::1 Returned 304 in 1 ms
+ HTTP  11/26/2026 1:10:57 AM ::1 GET /assets/index-BJr0B1iQ.js
+ HTTP  11/26/2026 1:10:57 AM ::1 Returned 304 in 0 ms
+ HTTP  11/26/2026 1:10:57 AM ::1 GET /manifest.webmanifest
+ HTTP  11/26/2026 1:10:57 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:00 AM ::1 GET /robots.txt
+ HTTP  11/26/2026 1:11:00 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:00 AM ::1 GET /sw.js
+ HTTP  11/26/2026 1:11:00 AM ::1 Returned 304 in 2 ms
+ HTTP  11/26/2026 1:11:01 AM ::1 GET /icon-192.png
+ HTTP  11/26/2026 1:11:01 AM ::1 Returned 304 in 1 ms
+ HTTP  11/26/2026 1:11:08 AM ::1 GET /
+ HTTP  11/26/2026 1:11:08 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:08 AM ::1 GET /assets/index-Crn3DIpm.css
+ HTTP  11/26/2026 1:11:08 AM ::1 GET /assets/index-BJr0B1iQ.js
+ HTTP  11/26/2026 1:11:08 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:08 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:08 AM ::1 GET /manifest.webmanifest
+ HTTP  11/26/2026 1:11:08 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:08 AM ::1 GET /assets/workbox-window.prod.es5-BqEJf4Xk.js
+ HTTP  11/26/2026 1:11:08 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:08 AM ::1 GET /favicon.ico
+ HTTP  11/26/2026 1:11:08 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:08 AM ::1 GET /icon-192.png
+ HTTP  11/26/2026 1:11:08 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:08 AM ::1 GET /sw.js
+ HTTP  11/26/2026 1:11:08 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:08 AM ::1 GET /workbox-ee9d8b34.js
+ HTTP  11/26/2026 1:11:08 AM ::1 Returned 200 in 0 ms
+ HTTP  11/26/2026 1:11:08 AM ::1 GET /index.html
+ HTTP  11/26/2026 1:11:08 AM ::1 Returned 301 in 0 ms
+ HTTP  11/26/2026 1:11:08 AM ::1 GET /index
+ HTTP  11/26/2026 1:11:08 AM ::1 Returned 301 in 0 ms
+ HTTP  11/26/2026 1:11:08 AM ::1 GET /
+ HTTP  11/26/2026 1:11:08 AM ::1 Returned 200 in 0 ms
+ HTTP  11/26/2026 1:11:08 AM ::1 GET /favicon.svg
+ HTTP  11/26/2026 1:11:08 AM ::1 Returned 200 in 0 ms
+ HTTP  11/26/2026 1:11:08 AM ::1 GET /assets/workbox-window.prod.es5-BqEJf4Xk.js
+ HTTP  11/26/2026 1:11:08 AM ::1 Returned 304 in 0 ms
+ HTTP  11/26/2026 1:11:08 AM ::1 GET /assets/index-Crn3DIpm.css
+ HTTP  11/26/2026 1:11:08 AM ::1 Returned 304 in 0 ms
+ HTTP  11/26/2026 1:11:08 AM ::1 GET /assets/index-BJr0B1iQ.js
+ HTTP  11/26/2026 1:11:08 AM ::1 Returned 304 in 0 ms
+ HTTP  11/26/2026 1:11:08 AM ::1 GET /manifest.webmanifest
+ HTTP  11/26/2026 1:11:08 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:11 AM ::1 GET /robots.txt
+ HTTP  11/26/2026 1:11:11 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:11 AM ::1 GET /sw.js
+ HTTP  11/26/2026 1:11:11 AM ::1 Returned 304 in 1 ms
+ HTTP  11/26/2026 1:11:12 AM ::1 GET /icon-192.png
+ HTTP  11/26/2026 1:11:12 AM ::1 Returned 304 in 1 ms
+ HTTP  11/26/2026 1:11:19 AM ::1 GET /
+ HTTP  11/26/2026 1:11:19 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:19 AM ::1 GET /assets/index-Crn3DIpm.css
+ HTTP  11/26/2026 1:11:19 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:19 AM ::1 GET /assets/index-BJr0B1iQ.js
+ HTTP  11/26/2026 1:11:19 AM ::1 GET /manifest.webmanifest
+ HTTP  11/26/2026 1:11:19 AM ::1 Returned 200 in 0 ms
+ HTTP  11/26/2026 1:11:19 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:19 AM ::1 GET /assets/workbox-window.prod.es5-BqEJf4Xk.js
+ HTTP  11/26/2026 1:11:19 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:19 AM ::1 GET /favicon.ico
+ HTTP  11/26/2026 1:11:19 AM ::1 GET /icon-192.png
+ HTTP  11/26/2026 1:11:19 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:19 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:19 AM ::1 GET /sw.js
+ HTTP  11/26/2026 1:11:19 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:19 AM ::1 GET /workbox-ee9d8b34.js
+ HTTP  11/26/2026 1:11:19 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:19 AM ::1 GET /index.html
+ HTTP  11/26/2026 1:11:19 AM ::1 Returned 301 in 1 ms
+ HTTP  11/26/2026 1:11:19 AM ::1 GET /index
+ HTTP  11/26/2026 1:11:19 AM ::1 Returned 301 in 0 ms
+ HTTP  11/26/2026 1:11:19 AM ::1 GET /
+ HTTP  11/26/2026 1:11:19 AM ::1 Returned 200 in 0 ms
+ HTTP  11/26/2026 1:11:19 AM ::1 GET /favicon.svg
+ HTTP  11/26/2026 1:11:19 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:19 AM ::1 GET /assets/workbox-window.prod.es5-BqEJf4Xk.js
+ HTTP  11/26/2026 1:11:19 AM ::1 Returned 304 in 1 ms
+ HTTP  11/26/2026 1:11:19 AM ::1 GET /assets/index-Crn3DIpm.css
+ HTTP  11/26/2026 1:11:19 AM ::1 Returned 304 in 0 ms
+ HTTP  11/26/2026 1:11:19 AM ::1 GET /assets/index-BJr0B1iQ.js
+ HTTP  11/26/2026 1:11:19 AM ::1 Returned 304 in 0 ms
+ HTTP  11/26/2026 1:11:19 AM ::1 GET /manifest.webmanifest
+ HTTP  11/26/2026 1:11:19 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:21 AM ::1 GET /robots.txt
+ HTTP  11/26/2026 1:11:21 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:21 AM ::1 GET /sw.js
+ HTTP  11/26/2026 1:11:21 AM ::1 Returned 304 in 1 ms
+ HTTP  11/26/2026 1:11:23 AM ::1 GET /icon-192.png
+ HTTP  11/26/2026 1:11:23 AM ::1 Returned 304 in 1 ms
+ HTTP  11/26/2026 1:11:29 AM ::1 GET /
+ HTTP  11/26/2026 1:11:29 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:29 AM ::1 GET /assets/index-Crn3DIpm.css
+ HTTP  11/26/2026 1:11:29 AM ::1 GET /assets/index-BJr0B1iQ.js
+ HTTP  11/26/2026 1:11:29 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:29 AM ::1 Returned 200 in 0 ms
+ HTTP  11/26/2026 1:11:29 AM ::1 GET /manifest.webmanifest
+ HTTP  11/26/2026 1:11:29 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:29 AM ::1 GET /assets/workbox-window.prod.es5-BqEJf4Xk.js
+ HTTP  11/26/2026 1:11:29 AM ::1 Returned 200 in 2 ms
+ HTTP  11/26/2026 1:11:29 AM ::1 GET /favicon.ico
+ HTTP  11/26/2026 1:11:29 AM ::1 GET /icon-192.png
+ HTTP  11/26/2026 1:11:29 AM ::1 Returned 200 in 2 ms
+ HTTP  11/26/2026 1:11:29 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:29 AM ::1 GET /sw.js
+ HTTP  11/26/2026 1:11:29 AM ::1 Returned 200 in 0 ms
+ HTTP  11/26/2026 1:11:29 AM ::1 GET /workbox-ee9d8b34.js
+ HTTP  11/26/2026 1:11:29 AM ::1 Returned 200 in 1 ms
+ HTTP  11/26/2026 1:11:29 AM ::1 GET /index.html
+ HTTP  11/26/2026 1:11:29 AM ::1 Returned 301 in 1 ms
+ HTTP  11/26/2026 1:11:29 AM ::1 GET /index
+ HTTP  11/26/2026 1:11:29 AM ::1 Returned 301 in 0 ms
+ HTTP  11/26/2026 1:11:29 AM ::1 GET /
+ HTTP  11/26/2026 1:11:29 AM ::1 Returned 200 in 0 ms
+ HTTP  11/26/2026 1:11:29 AM ::1 GET /favicon.svg
+ HTTP  11/26/2026 1:11:29 AM ::1 Returned 200 in 0 ms
+ HTTP  11/26/2026 1:11:29 AM ::1 GET /assets/workbox-window.prod.es5-BqEJf4Xk.js
+ HTTP  11/26/2026 1:11:29 AM ::1 Returned 304 in 0 ms
+ HTTP  11/26/2026 1:11:29 AM ::1 GET /assets/index-Crn3DIpm.css
+ HTTP  11/26/2026 1:11:29 AM ::1 Returned 304 in 0 ms
+ HTTP  11/26/2026 1:11:29 AM ::1 GET /assets/index-BJr0B1iQ.js
+ HTTP  11/26/2026 1:11:29 AM ::1 Returned 304 in 0 ms
+ HTTP  11/26/2026 1:11:29 AM ::1 GET /manifest.webmanifest
+ HTTP  11/26/2026 1:11:29 AM ::1 Returned 200 in 0 ms
+ HTTP  11/26/2026 1:11:32 AM ::1 GET /robots.txt
+ HTTP  11/26/2026 1:11:32 AM ::1 Returned 200 in 0 ms
+ HTTP  11/26/2026 1:11:32 AM ::1 GET /sw.js
+ HTTP  11/26/2026 1:11:32 AM ::1 Returned 304 in 1 ms
+ HTTP  11/26/2026 1:11:33 AM ::1 GET /icon-192.png
+ HTTP  11/26/2026 1:11:33 AM ::1 Returned 304 in 0 ms
